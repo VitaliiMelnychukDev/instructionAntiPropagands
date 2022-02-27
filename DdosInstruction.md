@@ -15,6 +15,9 @@
 ![image](https://user-images.githubusercontent.com/34738041/155881717-909a6220-8d08-44d4-aff3-3ec2ecd9c188.png)
 ### 3.1 Прийміть умови ліцензій і натисніть Accept
 ![image](https://user-images.githubusercontent.com/34738041/155881794-9e23fa98-0f07-4913-9e29-3ca407ccb888.png)
+### 3.2 Якщо появилося наступне вікно - це значить, що потрібно зробити доткові кроки. Тоді краше завершити встановлення і видалити Docker Desktop з комп'ютера.
+![image](https://user-images.githubusercontent.com/34738041/155884116-00f32de6-e92e-41c5-b3a7-ac254bf0de37.png)
+
 ### 3.2 Якщо появиться наступне вікно натискаєм Skip Tutorial
 ![image](https://user-images.githubusercontent.com/34738041/155881874-60cd30cf-ef91-48a7-92f6-3fad1f1f1c73.png)
 ### 3.3 Дочекайтеся поки Docker Desktop відкриється. Має появитися наступне вікно
