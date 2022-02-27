@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/34738041/155881537-0500a679-5f92-4d58-89e7-688522c4faa1.png)
 ### 2.2 Далі має появитися наступне вікно:
 ![image](https://user-images.githubusercontent.com/34738041/155881563-605c4013-95e3-4996-b978-54fce507c6b8.png)
-### 2.3 Натисніть Close
+### 2.3 Дочекайтез заврешення встановлення і натисніть Close
 ![image](https://user-images.githubusercontent.com/34738041/155881659-02430e35-1e36-4059-a9f0-ec10c1650c8c.png)
 ## 3. Відкрийте Docker Desktop
 ![image](https://user-images.githubusercontent.com/34738041/155881717-909a6220-8d08-44d4-aff3-3ec2ecd9c188.png)
@@ -16,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/34738041/155881874-60cd30cf-ef91-48a7-92f6-3fad1f1f1c73.png)
 ### 3.3 Дочекайтеся поки Docker Desktop відкриється. Має появитися наступне вікно
 ![image](https://user-images.githubusercontent.com/34738041/155881828-10a4f393-1883-4d45-ba95-755c38794b72.png)
-## 4. Запучкаєм DDos атаку
+## 4. Запускаєм DDos атаку
 ### 4.1 Натискаємо на клавіатурі "Win + R" як на наступному скріншоті:
 ![image](https://user-images.githubusercontent.com/34738041/155881988-f769c206-bd8f-4394-bc06-75eef3b0bbca.png)
 ### 4.2 Має появитися наступне вікно
@@ -30,4 +30,4 @@
 ### 4.6 Дальше ви повинні побичити подібну інформацію на екрані
 ![image](https://user-images.githubusercontent.com/34738041/155882203-7573ae1d-e8e1-46f5-a3dc-1cb15aeae3a2.png)
 
-## Просто згортаємо вікно і не виключаємо комп'ютер. Ваш комп'ютер буде робити запати на сайти, які ви бачите на екрані. Вітаю ви доядналися до DDos атаки
+## Просто згортаємо вікно і не виключаємо комп'ютер. Ваш комп'ютер буде робити запати на сайти, які ви бачите на екрані. Вітаю ви доєдналися до DDos атаки
