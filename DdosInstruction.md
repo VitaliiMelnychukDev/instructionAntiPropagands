@@ -1,12 +1,15 @@
 # Запуск DDOS атаки на Російські і Білоруські сайти (Інструкція працює для ОС Windows 10). Це допоможе вивести їх зі строю:
+# Увага всі етапи можуть займати деякий час!!!
 ## 1. Скачайте Docker Desktop за наступним посиланням: https://docs.docker.com/desktop/windows/install/
 ![image](https://user-images.githubusercontent.com/34738041/155881306-9b045636-107f-49d6-9757-e8c31892faee.png)
 ## 2. Встановіть програму виконуючи наступні кроки:
-### 2.1 Натисніть ОК
+### 2.1 Має появитися наступне вікно:
+![image](https://user-images.githubusercontent.com/34738041/155883136-ea9ce332-a187-4751-8b2a-7cc5fcee997d.png)
+### 2.2 Натисніть ОК
 ![image](https://user-images.githubusercontent.com/34738041/155881537-0500a679-5f92-4d58-89e7-688522c4faa1.png)
-### 2.2 Далі має появитися наступне вікно:
+### 2.3 Далі має появитися наступне вікно:
 ![image](https://user-images.githubusercontent.com/34738041/155881563-605c4013-95e3-4996-b978-54fce507c6b8.png)
-### 2.3 Дочекайтез заврешення встановлення і натисніть Close
+### 2.4 Дочекайтез заврешення встановлення і натисніть Close
 ![image](https://user-images.githubusercontent.com/34738041/155881659-02430e35-1e36-4059-a9f0-ec10c1650c8c.png)
 ## 3. Відкрийте Docker Desktop
 ![image](https://user-images.githubusercontent.com/34738041/155881717-909a6220-8d08-44d4-aff3-3ec2ecd9c188.png)
