@@ -9,7 +9,7 @@
 ![image](https://user-images.githubusercontent.com/34738041/155881537-0500a679-5f92-4d58-89e7-688522c4faa1.png)
 ### 2.3 Далі має появитися наступне вікно:
 ![image](https://user-images.githubusercontent.com/34738041/155881563-605c4013-95e3-4996-b978-54fce507c6b8.png)
-### 2.4 Дочекайтеся заврешення встановлення і натисніть Close And Restart. Після натиснення комп'ютер буде перезавантажено
+### 2.4 Дочекайтеся завершення встановлення і натисніть Close And Restart. Після натиснення комп'ютер буде перезавантажено
 ![image](https://user-images.githubusercontent.com/34738041/155883511-bf1ceef8-7b2f-4c7f-ac78-1c9c4be9622d.png) 
 ## 3. Відкрийте Docker Desktop
 ![image](https://user-images.githubusercontent.com/34738041/155881717-909a6220-8d08-44d4-aff3-3ec2ecd9c188.png)
